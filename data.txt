@@ -27,7 +27,7 @@ Lassi,Yougurt,Ghee,Cheese,Butter,Milk,Panner,
 Panner,Yougurt,Sugar,Coffee Powder,Milk,Cheese,
 Panner,Milk,Sweet,
 Bread,Coffee Powder,
-Sweet,Cheese,
+Sweet
 Yougurt,Bread,Tea Powder,Coffee Powder,
 Lassi,Sweet,Panner,
 Milk,Butter,Bread,Tea Powder,Panner,Ghee,
